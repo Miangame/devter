@@ -1,4 +1,4 @@
-Clon de twitter. Idea del curso de Next.js de @midudev
+Clon de twitter. Idea del curso de Next.js de [@midudev](https://github.com/midudev)
 
 ## Getting Started
 
